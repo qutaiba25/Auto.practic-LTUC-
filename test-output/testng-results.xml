@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="11" total="18" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-20T17:31:09 EET" name="Default suite" finished-at="2025-07-20T17:31:40 EET" duration-ms="31243">
+    <groups>
+    </groups>
+    <test started-at="2025-07-20T17:31:09 EET" name="Default test" finished-at="2025-07-20T17:31:40 EET" duration-ms="31243">
+      <class name="AutoPractce.AutoPractce.myTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:09 EET" name="mySetup" finished-at="2025-07-20T17:31:14 EET" duration-ms="5373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="calender()[pri:1, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:14 EET" name="calender" finished-at="2025-07-20T17:31:17 EET" duration-ms="3065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calender -->
+        <test-method signature="calenderAdd()[pri:2, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:17 EET" name="calenderAdd" finished-at="2025-07-20T17:31:21 EET" duration-ms="4026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calenderAdd -->
+        <test-method signature="CalendrRead()[pri:3, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:21 EET" name="CalendrRead" finished-at="2025-07-20T17:31:26 EET" duration-ms="4786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalendrRead -->
+        <test-method signature="calenderupdate()[pri:4, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:26 EET" name="calenderupdate" finished-at="2025-07-20T17:31:30 EET" duration-ms="4022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calenderupdate -->
+        <test-method signature="CalendrReadAfterUpdate()[pri:5, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:30 EET" name="CalendrReadAfterUpdate" finished-at="2025-07-20T17:31:35 EET" duration-ms="5214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalendrReadAfterUpdate -->
+        <test-method signature="calenderDelete()[pri:6, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:35 EET" name="calenderDelete" finished-at="2025-07-20T17:31:35 EET" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calenderDelete -->
+        <test-method signature="Iframe()[pri:7, instance:AutoPractce.AutoPractce.myTestCases@4aa83f4f]" started-at="2025-07-20T17:31:35 EET" name="Iframe" finished-at="2025-07-20T17:31:40 EET" duration-ms="4584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iframe -->
+      </class> <!-- AutoPractce.AutoPractce.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
